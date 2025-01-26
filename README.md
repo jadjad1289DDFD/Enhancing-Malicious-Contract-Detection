@@ -7,6 +7,7 @@
 In the example below, we observe that the Inferno Drainer deploys contracts to bypass address-based detection. This proposal aims to counter such manipulations by flagging contracts based on high bytecode similarity, funder/entity relationships, and transaction patterns.
 
 https://etherscan.io/address/0x000002e5a6b6949752a693d3dc6a3314c6150000#code : reported that this address was used in a Phishing scam.
+
 https://etherscan.io/address/0x9744afd8ab8825eae9b6ee7c76a8e135253a13f0#code  :  not reported .
 
 both contracts share the same bytecode ,funder and same transaction patterns making contract 2 is highly likely to be malicious  malicious, even if it hasn't been reported yet.
