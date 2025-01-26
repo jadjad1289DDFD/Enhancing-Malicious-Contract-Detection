@@ -25,6 +25,5 @@ To further validate, transaction patterns or known malicious functions can be in
 
 
 
-This approach can be integrated into address-based detection systems or explorer labeling to more effectively counter tactics where actors deploy similar bytecode contracts with If the funders or related addresses match or are linked and transaction patterns to evade address-based detection. 
-
+This approach can be integrated into address-based detection systems or explorer labeling to more effectively counter tactics where actors deploy similar bytecode contracts, with funders or related addresses matching or being linked, to evade address-based detection
 
